@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React App Quiz
 
 ## to run the project
 you need 2 terminals
